@@ -12,8 +12,8 @@ This projects is to helping you generate query from excel template
 
 
 Screenshoot
-![alt text](https://imgur.com/a/G2VTNmQ)
-![alt text](https://imgur.com/a/bGj9rpM)
+![alt text](https://i.imgur.com/mF6mlKT.png)
+![alt text](https://i.imgur.com/6aybONU.png)
 
 
 
