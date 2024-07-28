@@ -14,9 +14,11 @@ This projects is to helping you generate query from excel template
 ## Screenshoot
 ![alt text](https://i.imgur.com/Z87DmhX.png)
 
+![alt text](https://i.imgur.com/6aybONU.png)
+
 ![alt text](https://i.imgur.com/mF6mlKT.png)
 
-![alt text](https://i.imgur.com/6aybONU.png)
+
 
 
 
